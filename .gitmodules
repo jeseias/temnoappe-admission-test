@@ -1,0 +1,9 @@
+[submodule "temnoappe-admission-test-mobile"]
+	path = temnoappe-admission-test-mobile
+	url = https://github.com/jeseias/temnoappe-admission-test-mobile
+[submodule "temnoappe-admission-test-backend"]
+	path = temnoappe-admission-test-backend
+	url = https://github.com/jeseias/temnoappe-admission-test-backend
+[submodule "temnoappe-admission-test-dashboard"]
+	path = temnoappe-admission-test-dashboard
+	url = https://github.com/jeseias/temnoappe-admission-test-dashboard
